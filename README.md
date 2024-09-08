@@ -3,6 +3,7 @@ This project demonstrates the integration of Wazuh with the VirusTotal API to ch
 
 ### UML Diagram
 Refer to the UML diagram to understand the workflow:
+
 ![Untitled Diagram drawio (2)](https://github.com/user-attachments/assets/a996e4cc-61d6-47cd-9ef4-50501dc715dc)
 
 
